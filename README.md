@@ -11,7 +11,7 @@ The GAN composes of three different names such as Generative, Adversarial and Ne
 ## `Generative models over the years`
 + Based on maximum likelihood we can compare the models
 <p align="center">
-  <img src="static/GAN.png"><br/>
+  <img src="static/gan.png"><br/>
   <i>GAN over the years.</i>
 </p>
 
