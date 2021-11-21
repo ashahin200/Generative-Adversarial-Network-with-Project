@@ -9,7 +9,7 @@ GANs are a hot topic of research today in the field of deep learning. Popularity
 The GAN composes of three different names such as Generative, Adversarial and Network. Generative means we will generate some probability distribution which becomes close to the original data that we want to approximate. Adversarial means conflict or opposition. So, there will be two networks that we call them discriminator and generator. So, these two neutral networks fight against each other in order to learn the probability distribution function
 
 ## `Generative models over the years`
-+Based on maximum likelihood we can compare the models
++ Based on maximum likelihood we can compare the models
 <p align="center">
   <img src="static/GAN.png"><br/>
   <i>GAN over the years.</i>
